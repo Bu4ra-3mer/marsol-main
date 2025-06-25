@@ -1,0 +1,2 @@
+E:/Graduation project/ahmed osama/marsol-main/android/app/.cxx/Debug/1c52331x/x86/CMakeFiles/edit_cache.dir
+E:/Graduation project/ahmed osama/marsol-main/android/app/.cxx/Debug/1c52331x/x86/CMakeFiles/rebuild_cache.dir
