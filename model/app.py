@@ -14,8 +14,8 @@ CORS(app, resources={r"/detect": {"origins": "*"}})
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # التأكد من وجود نماذج YOLO
-arabic_model_path = r"E:\Graduation project\ahmed osama\marsol-main\model\best_ASL.pt"  # تأكدي من تحديث المسار إذا لزم الأمر
-english_model_path = r"E:\Graduation project\ahmed osama\marsol-main\model\best.pt"  # تأserver.pyكدي من تحديث المسار إذا لزم الأمر
+arabic_model_path = r"D:\Telegram Desktop\marsol-main\marsol-main\model\best_ASL.pt"
+english_model_path = r"D:\Telegram Desktop\marsol-main\marsol-main\model\best.pt" 
 
 if not os.path.exists(arabic_model_path):
     logging.error(f"Arabic YOLO model not found at {arabic_model_path}")
