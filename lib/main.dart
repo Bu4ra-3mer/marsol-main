@@ -14,10 +14,12 @@ import 'Homepage/learning_page.dart';
 import 'Homepage/progress_page.dart';
 import 'Homepage/saved_lessons_page.dart';
 import 'Homepage/settings_page.dart';
+import 'firebase_options.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   await GetStorage.init();
 
   Get.put(ThemeController());
