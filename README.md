@@ -1,16 +1,35 @@
-# mersal_app
+# Mersal App 📝
+A Flutter application that bridges communication between the deaf/mute community and hearing individuals using real-time Sign Language translation.
 
-A new Flutter project.
+## 📱 App Demo
+<!-- ضع رابط GIF أو صور التطبيق هنا -->
+https://github.com/user-attachments/assets/26361f9e-6a18-4383-9a6a-77d21eb7ef1d
 
-## Getting Started
+## 🚀 Features
+- Real-time Speech-to-Sign translation
+- Sign-to-Text/Voice translation
+- Camera integration for gesture recognition
+- Text-to-Speech support
+- Smooth and responsive UI
+- Cross-platform (Android & iOS)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter & Dart
+- Flask API (Backend)
+- BLoC / Cubit state management
+- AI Models: Gesture recognition, speech-to-text, text-to-speech
+- RESTful API communication
+- flutter_tts, camera, provider
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 Concepts Used
+- Real-time bidirectional communication
+- Camera input & gesture detection
+- Text-to-Speech and Speech-to-Text conversion
+- Clean Architecture: Data, Domain, Presentation layers
+- Reusable widgets & smooth UI interactions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Getting Started
+This project is a Flutter application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the  
+[online documentation](https://docs.flutter.dev/).
