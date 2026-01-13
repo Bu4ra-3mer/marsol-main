@@ -1,4 +1,4 @@
-# Mersal App 📝
+# Mersal App 
 A Flutter application that bridges communication between the deaf/mute community and hearing individuals using real-time Sign Language translation.
 
 ## 📱 App Demo
@@ -28,8 +28,3 @@ https://github.com/user-attachments/assets/26361f9e-6a18-4383-9a6a-77d21eb7ef1d
 - Clean Architecture: Data, Domain, Presentation layers
 - Reusable widgets & smooth UI interactions
 
-## 📦 Getting Started
-This project is a Flutter application.
-
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).
